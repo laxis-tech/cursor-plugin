@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "laxis": {
+      "type": "http",
+      "url": "https://app.laxis.tech/mcp"
+    }
+  }
+}
