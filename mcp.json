@@ -2,7 +2,7 @@
   "mcpServers": {
     "laxis": {
       "type": "http",
-      "url": "https://app.laxis.tech/mcp"
+      "url": "https://app.laxis.com/mcp"
     }
   }
 }

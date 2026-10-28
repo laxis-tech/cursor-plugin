@@ -19,7 +19,7 @@ Or run `/add-plugin laxis` in chat.
   "mcpServers": {
     "laxis": {
       "type": "http",
-      "url": "https://app.laxis.tech/mcp"
+      "url": "https://app.laxis.com/mcp"
     }
   }
 }
@@ -50,7 +50,7 @@ Typical workflows: turn a batch of customer calls into a status report, draft a 
 
 - Laxis help center: https://help.laxis.com
 - Privacy policy: https://www.laxis.com/privacy
-- Server URL: https://app.laxis.tech/mcp
+- Server URL: https://app.laxis.com/mcp
 - Support: support@laxis.tech
 
 Logo is Laxis's official mark.
